@@ -23,7 +23,7 @@ const greeting = {
   username: "Yemane Hadis",
   title: "Hello , I am Yemane Hadis",
   subTitle: emoji(
-    "Proficient Software Engineer 🚀 with 4+ years of experience working as a professional full-stack developer focused on delivering quality solutions to the customer using best programming practices and design patterns. Streamlining the development and testing of automated systems using technologies  Java, Javascript, Spring, React, Junit and Mockito . Comfortable, with working as a team, willing to handle responsibilities, and efficient problem solver."
+    "Proficient Software Engineer 🚀 with 4+ years of experience working as a professional full-stack developer focused on delivering quality solutions to the customer by using best programming practices and design patterns. Streamlining the development and testing of automated systems using technologies  Java, Javascript, Spring, React, Junit and Mockito.   \n Comfortable with working as a team, willing to handle responsibilities, and Efficient problem solver."
 
     // "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks. "
   ),
@@ -57,7 +57,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-    emoji("⚡ Experice with CI/CD, AWS,Docker,Kubernete")
+    emoji("⚡ Experience with CI/CD, AWS,Docker,Kubernete")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
